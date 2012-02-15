@@ -1,5 +1,7 @@
 # TeX Live - Brazilian Portuguese translation
 
+> **Last update:** February 12, 2012
+
 ## About
 
 This repository holds the Brazilian Portuguese translation file for [TeX Live](http://www.tug.org/texlive/).

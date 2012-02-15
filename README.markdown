@@ -1,6 +1,6 @@
 # TeX Live - Brazilian Portuguese translation
 
-> **Last update:** February 12, 2012
+> **Last update:** February 15, 2012
 
 ## About
 

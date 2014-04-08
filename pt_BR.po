@@ -1,4 +1,4 @@
-# Brazilian Portuguese Translation for TeX Live 2012
+# Brazilian Portuguese Translation for TeX Live 2014
 #
 msgid ""
 msgstr ""

@@ -1624,7 +1624,7 @@ msgstr "Ciências naturais e da computação"
 
 #: tlpkg/translations/shortdesc.pl:55
 msgid "TeXworks editor; TL includes only the Windows binary"
-msgstr "Editor TeXworks; TL inclui apenas o binário para Windows"
+msgstr "editor TeXworks; TL inclui apenas o binário para Windows"
 
 #: tlpkg/translations/shortdesc.pl:56
 msgid "Windows-only support programs"
